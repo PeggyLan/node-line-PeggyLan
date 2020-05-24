@@ -1,4 +1,4 @@
-# Hello Word 即時天氣&時間
+# Hello Word 世界即時天氣&時間
  
 ### ID @797lbdfu
 
