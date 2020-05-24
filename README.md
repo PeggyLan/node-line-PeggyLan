@@ -3,7 +3,7 @@
  ### ID @797lbdfu
 
 
-![Alt text](https://github.com/20ja/node-line-20ja/blob/master/%E6%A9%9F%E5%99%A8%E4%BA%BAqrcode.png?raw=true)
+![Alt text](https://github.com/PeggyLan/node-line-PeggyLan/blob/master/bot_qrcode.png)
 
 ### 使用說明
 1.搜尋＋一個空白＋想搜尋的關鍵字 例如：搜尋 lemon <br>
