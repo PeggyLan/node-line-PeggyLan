@@ -1,10 +1,7 @@
 # Hello Word 即時天氣&時間
  
 ## ID @797lbdfu
-
-
 ![Alt text](https://github.com/PeggyLan/node-line-PeggyLan/blob/master/bot_qrcode.png)
-
 ## 使用說明
 ## 可輸入
 1.國家<br>
